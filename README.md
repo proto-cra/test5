@@ -6,7 +6,7 @@
 
 ## Information Architecture
 ```mermaid
-graph TD;
+flowchart TD;
     node1(Canada.ca)
     node1(node1) --> node2(Taxes)
     node2(node2) --> node3(Tax credits and benefits for individuals)
